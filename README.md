@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lionel-mccree" alt="lionel-mccree" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning,Pointcloud denoising etc**
+- 🌱 I’m currently learning **Deep learning,Pointcloud etc**
 
 - 💬 Ask me about **Java,python**
 
