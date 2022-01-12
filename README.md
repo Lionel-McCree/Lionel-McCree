@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning,Pointcloud etc**
 
-- 💬 Ask me about **Java,python**
+- 💬 Ask me about **Pointcloud normal estimation/denoising**
 
 - 📫 How to reach me **912626756@qq.com**
 
